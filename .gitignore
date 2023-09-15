@@ -284,4 +284,12 @@ fabric.properties
 # https://plugins.jetbrains.com/plugin/8053-azure-toolkit-for-intellij
 .idea/**/azureSettings.xml
 
+# word
+.doc
+.docx
+.pdf
+
+# Scratches
+.Scratches
+
 # End of https://www.toptal.com/developers/gitignore/api/django,pycharm
